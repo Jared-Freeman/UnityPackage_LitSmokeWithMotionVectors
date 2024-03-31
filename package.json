@@ -1,0 +1,28 @@
+{
+    "name": "com.gobirb.lit-smoke-with-motion-vectors",
+    "version": "1.0.0",
+    "displayName": "Jurd's Lit Smoke With Motion Vectors",
+    "description": "Sample 6-way lighting technique with baked motion vector maps. The content of this package is included as a sample.",
+    "unity": "2022.3",
+    "unityRelease": "18f1",
+    "licensesUrl": "https://spdx.org/licenses/MIT.html",
+    "dependencies": {
+      "com.unity.render-pipelines.high-definition": "14.0.10"
+   },
+   "keywords": [
+      "vfx",
+      "visual",
+      "effect",
+      "smoke"
+    ],
+    "author": {
+      "name": "Jared Freeman"
+    },
+    "samples": [
+        {
+            "displayName": "All the stuff",
+            "description": "You should import this since it's the actual package",
+            "path": "Samples~/motion-vectors-shader"
+        }
+    ]
+  }
